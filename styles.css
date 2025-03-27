@@ -5,7 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 800px;
+    min-height: 600px;
     margin: 0;
     font-size: 16px;
     
@@ -61,7 +61,7 @@ align-items: center;
 
 .user-image {
     width: 35px;
-    height: 40px;
+    height: 20px;
     border-radius: 50%;
     margin-right: 10px;
 }
